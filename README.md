@@ -10,6 +10,6 @@
 - ✔ One-to-One Follow-Up Until Success  
 
 ## 🌐 Live Website
-Visit: https://ashishpatil7507.github.io/careerboost.hub/index.html
+Visit: https://ashishpatil7507.github.io/CareerBoost.HUB/index.html
 
 ## 📁 Project Structure
